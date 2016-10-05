@@ -3,4 +3,4 @@ configuration:
 server:
   port: 8001
 message:
-  greeting: Ra Ra Rasputin, lover of the russian queen! 
+  greeting: Ra Ra Rasputin, lover of the russian queen! It was a name that he carried on!
